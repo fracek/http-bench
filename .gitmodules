@@ -1,6 +1,3 @@
-[submodule "ext/http"]
-	path = ext/http
-	url = git://github.com/dylan-lang/http.git
 [submodule "ext/serialization"]
 	path = ext/serialization
 	url = git://github.com/dylan-foundry/serialization.git
